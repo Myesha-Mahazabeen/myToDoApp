@@ -1,5 +1,5 @@
 ## MyToDoApp
-This a To Do List mobile app (Android & ios) built with Expo based **React native** that allows users to add tasks with due dates, sort tasks by due date, mark tasks as complete, and delete tasks
+This a To Do List mobile app (Android & iOS) built with Expo based **React native** that allows users to add tasks with due dates, sort tasks by due date, mark tasks as complete, and delete tasks
 
 ## Features
 [x] Users can add tasks
