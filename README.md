@@ -3,9 +3,13 @@ This a To Do List mobile app (Android & ios) built with Expo based **React nativ
 
 ## Features
 [x] Users can add tasks
+
 [x] Users can set due date from the pop up calender
+
 [x] Users can prioritize their tasks by sorting the due dates
+
 [x] Users can mark tasks as complete and delete the tasks
+
 [x] User friendly interface with interactive buttons
 
 ## Video Walthrough
